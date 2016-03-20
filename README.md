@@ -1,5 +1,4 @@
 # hello-world
-Just test repository
 
 Hi men!
 
